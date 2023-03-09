@@ -1,0 +1,3 @@
+[submodule "independent-citation-counter"]
+	path = independent-citation-counter
+	url = https://github.com/arunkannawadi/independent-citation-counter.git
