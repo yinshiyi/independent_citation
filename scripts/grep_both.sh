@@ -2,6 +2,9 @@
 
 # Set the input and output files
 input_file="/Users/shiyiyin/citation/data/shiyi.txt"
+# remove strings after "&scipsc=1"
+# use chrome to click through all of them
+# gs_ab_mdw is the class name
 output_file="$(basename "$input_file" .txt)_output_$(date +%Y-%m-%d_%H-%M-%S).csv"
 
 # Use grep to find all instances of "Citations:" followed by two numbers separated by a slash, and capture the numbers
