@@ -1,7 +1,7 @@
  ------
 
 Highly efficient gene editing of cystic fibrosis patient-derived airway basal cells results in functional CFTR correction
-Citations: 26/33
+Citations: 25/32
 Link:  http://scholar.google.com/scholar?hl=en&cites=16315581196462685033&hl=en&scipsc=1&q=-author:%27S%20Suzuki%27+-author:%27A%20Crane%27+-author:%27V%20Anirudhan%27+-author:%27C%20Barill%C3%A0%27+-author:%27N%20Matthias%27+-author:%27S%20Randell%27+-author:%27A%20Rab%27+-author:%27E%20Sorscher%27+-author:%27J%20Kerschner%27+-author:%27S%20Yin%27+-author:%27A%20Harris%27+-author:%27M%20Mendel%27+-author:%27K%20Kim%27+-author:%27L%20Zhang%27+-author:%27A%20Conway%27+-author:%27B%20Davis%27
 
  ------
@@ -13,7 +13,7 @@ Link:  http://scholar.google.com/scholar?hl=en&cites=1935133628938395532&hl=en&s
  ------
 
 Functional genomics analysis of human colon organoids identifies key transcription factors
-Citations: 17/17
+Citations: 18/19
 Link:  http://scholar.google.com/scholar?hl=en&cites=14172164150878675638&hl=en&scipsc=1&q=-author:%27S%20Yin%27+-author:%27G%20Ray%27+-author:%27J%20Kerschner%27+-author:%27S%20Hao%27+-author:%27A%20Perez%27+-author:%27M%20Drumm%27+-author:%27J%20Browne%27+-author:%27S%20Leir%27+-author:%27M%20Longworth%27+-author:%27A%20Harris%27
 
  ------
@@ -49,7 +49,7 @@ Link:  http://scholar.google.com/scholar?hl=en&cites=14870815335955536765&hl=en&
  ------
 
 An organoid model to assay the role of CFTR in the human epididymis epithelium
-Citations: 6/8
+Citations: 7/9
 Link:  http://scholar.google.com/scholar?hl=en&cites=15629183454941967333&hl=en&scipsc=1&q=-author:%27S%20Leir%27+-author:%27S%20Yin%27+-author:%27J%20Kerschner%27+-author:%27S%20Xia%27+-author:%27S%20Ahmadi%27+-author:%27C%20Bear%27+-author:%27A%20Harris%27
 
  ------

@@ -15,3 +15,4 @@ grep "Link:" "${input_file}" | sed 's/Link: //g' | egrep -o 'http(s)?:\/\/[^ "\(
 
 paste -d ',' output_num.csv output_links.csv > $output_file
 rm output_num.csv output_links.csv
+awk -F ',' '{ sum1 += $1; sum2 += $2 } END { print "Sum of GC:", sum1; print "Sum of total:", sum2 }' $output_file >> $output_file
