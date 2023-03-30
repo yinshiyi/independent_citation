@@ -43,6 +43,7 @@ for index, row in links.iterrows():
 for col in df.columns:
     df[col] = df[col].str.extract(pattern)
 df.fillna(0, inplace=True)
+df = df.astype(int)
 df = df.append(df.sum(numeric_only=True), ignore_index=True)
 # print tables
 today = datetime.now()
