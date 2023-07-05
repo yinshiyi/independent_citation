@@ -1,7 +1,7 @@
 # independent_citation
-first use the submodule to generate the links
-
-then use the bash script to get the numbers
+1. use the submodule and target author google scholar profile to generate the rawdata and store in `/data`
+2. use `grep_*.sh` to produce csv files
+3. run `chrome.py` to generate final output in `/output`
 
 # background
 
