@@ -1,6 +1,6 @@
 # independent_citation
 1. use the submodule and target author google scholar profile to generate the rawdata and store in `/data`
-2. use `grep_*.sh` to produce csv files
+2. use `grep_*.sh` to produce csv files of links
 3. run `chrome.py` to generate final output in `/output`
 
 # background
