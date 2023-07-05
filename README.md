@@ -14,4 +14,4 @@ Kacem, A., Flatt, J.W. & Mayr, P. Tracking self-citations in academic publishing
 2. the paper citing my paper cannot have any overlap of any names, excluding self-citation by me and co-authors, (article centric model)
 Ioannidis, J. P. A., Baas, J., Klavans, R., & Boyack, K. W. (2019). A standardized citation metrics author database annotated for scientific field. PLoS Biology,17(8), e3000384. https://doi.org/10.1371/journal.pbio.3000384.
 
-In my expereinces, as of 2023, most will either ask for > 200 total citation for EB1B or 150 independent (type 2 method) for EB1B.
+In my expereinces, as of 2023, most will either ask for > 200 total citation or 150 independent (type 2 method) for EB1B.
