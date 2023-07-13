@@ -26,7 +26,7 @@ pattern = r"\D*(\d+)\s+result"
 driver = webdriver.Chrome()
 df = pd.DataFrame(columns=['GC', 'total'])
 
-links = pd.read_csv('link_file/output.csv', header=None)
+links = pd.read_csv('../link_file/output.csv', header=None)
 # Launch the browser and navigate to the webpage
 for index, row in links.iterrows():
     ti.sleep(random.uniform(5, 10))
