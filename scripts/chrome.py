@@ -8,11 +8,14 @@ import re
 from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime, date, time, timezone
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.service import Service
+# from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from fp.fp import FreeProxy
 pattern = r"\D*(\d+)\s+result"
+# use this to update selenium pip3 install -U selenium
 
 # get a list of free proxies
 # proxy = FreeProxy(https=True).get()
@@ -22,8 +25,9 @@ pattern = r"\D*(\d+)\s+result"
 # # options.add_argument('--window-size=1920,1080')
 # # options.add_argument('--disable-gpu')
 # driver = webdriver.Chrome(options=options)
-
 driver = webdriver.Chrome()
+# use this to update the chrome driver
+# driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 df = pd.DataFrame(columns=['GC', 'total'])
 
 links = pd.read_csv('../link_file/output.csv', header=None)
