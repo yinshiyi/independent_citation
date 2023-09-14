@@ -15,7 +15,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from fp.fp import FreeProxy
 pattern = r"\D*(\d+)\s+result"
-# use this to update selenium pip3 install -U selenium
+# use this to update selenium `pip3 install -U selenium`
+# use this to update chromedriver `brew install --cask chromedriver`
+# xattr -d com.apple.quarantine /opt/homebrew/Caskroom/chromedriver/117.0.5938.62/chromedriver-mac-arm64/chromedriver
 
 # get a list of free proxies
 # proxy = FreeProxy(https=True).get()
